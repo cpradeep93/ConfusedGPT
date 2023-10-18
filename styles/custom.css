@@ -107,8 +107,27 @@
       .setting_model
       {
         width: 95% !important;
-        height: 70% !important;
+/*         height: 70% !important; */
+         height: auto;
       }
+
+/*       #bottom_input_text
+      {
+        display: none;
+      }  */
+
+    
+      .send_message_input
+      {
+        margin-bottom: 10px;
+      }
+
+        
+/*       .send_message_input
+      {
+        margin-bottom: 50px;
+      } */
+
 
     }
 
